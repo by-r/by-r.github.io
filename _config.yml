@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  The best way you can contact me is either thru Email or Linkedin.
+  The best way you can contact me is either through Email or Linkedin.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
