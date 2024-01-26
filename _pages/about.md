@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I'm Razzeq, and I enjoy learning, making projects and exploring new things. Also, having dreams of creating and contributing to meaningful projects that could have an impact in our everyday lives.
 
-Currently working as an **Assistant IT Officer** at the local authority, [Perbadanan Labuan](https://www.linkedin.com/company/perbadanan-labuan/). Leveraging my skills of **Product Management**, **Product Ownership** and **Software Development**. **Handling**, **Developing** and sometimes doing adhoc **Graphic Design**.
+Currently working as an **Assistant IT Officer** at the local authority, [Perbadanan Labuan](https://www.linkedin.com/company/perbadanan-labuan/). Leveraging my skills of **Product Management**, **Product Ownership** and **Software Development**. **Handling**, **Developing Software** and sometimes doing adhoc **Graphic Design**.
 
 Mainly doing Full-stack development using **Django**. I have keen interest in the **Back-End** side of development, learning new concepts in my spare time. 
 
