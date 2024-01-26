@@ -6,13 +6,13 @@
     "email": "rzq272@gmail.com",
     "phone": "Will be given on request",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Passionate Software developer based in Malaysia, love messing with tech and learning about how software works.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Labuan",
+      "postalCode": "87000",
+      "city": "Labuan",
+      "countryCode": "MY",
+      "region": "Malaysia"
     },
     "profiles": [
       {
@@ -29,8 +29,8 @@
       "url": "https://example.com",
       "startDate": "2023-08",
       "endDate": "Now",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Software", "Project"]
+      "summary": "",
+      "highlights": ["Product Ownership", "Product Management", "Software Development", "Multimedia/Graphic Design"]
     }
   ],
   "education": [
@@ -43,16 +43,7 @@
       "startDate": "2019",
       "endDate": "2021",
       "score": "3.33",
-      "notable courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "notable courses": ["Information Systems Development", "Programming Paradigm", "Web Application Development", "Introduction to Data Communication and Networking", "Object Oriented Programming", "Fundamentals of Data Structures", "Structured Programming" ]
     }
   ],
   "certificates": [
@@ -62,41 +53,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
@@ -116,13 +72,13 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Malay",
+      "fluency": "Native",
       "icon": ""
     }
   ],
@@ -154,11 +110,27 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Car Booking System ",
+      "summary": "Library System Built using Django 4.0",
+      "highlights": ["Python", "Bootstrap"],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Django Library System",
+      "summary": "Library System Built using Django 4.0",
+      "highlights": ["Python", "Bootstrap"],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Food Ordering System",
+      "summary": "Restaurant management System built using Vanilla PHP",
+      "highlights": ["PHP"],
+      "url": "https://example.com"
+    },
+    {
+      "name": "Cover Letter Generator",
+      "summary": "Cover Letter Generator utilizing OpenAI API",
+      "highlights": ["Python"],
       "url": "https://example.com"
     }
   ]
