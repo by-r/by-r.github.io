@@ -14,8 +14,9 @@ Might write a blog post someday on the process of building this app.
 Went thru a lot of trial and errors, learnt a lot of things. Certainly, one of my favorite project so far.
 
 ```bash
-pip install django
 mkdir tempahKereta && cd tempahKereta    
+pip install django 
+django-admin startproject tempahKereta .
 ```
 
 <div class="row">
