@@ -59,22 +59,15 @@ django-admin startproject tempahKereta .
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Primarily built this tool/app to ease booking process. Anytime, anywhere, as long as you have internet access.
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+**What I learnt**:
 
-{% endraw %}
+Learnt a lot valuable knowledge that can be implemented in my future projects (and also my old abandoned projects).
+Notable points:
+1. The importance of virtual environments : Isolating/Containerizing apps would ease the development process in the long run. Makes running locally and deploying a lot more easier.
+2. Keeping Secret Keys : Importing secret keys (API keys, Django keys, etc..) is a lot more safer rather than just importing it there, cause it leads the app to be vulnerable to attacks (?) and whatnot
+3. Implementing JS scripts/libraries to HTML files : Using external libraries to implement functions that are already built instead of building it by myself.
+4. Understanding JSON : Studying/Researching the importance of JSONresponse or calling APIs to the frontend to display proper info.
+5. Understanding Django ORM : WIP
