@@ -1,8 +1,13 @@
 ## Personal Website
 
-Using al-folio template, crafted a personal page and deployed to gh-pages. 
+personal page and deployed to gh-pages. 
+Contents:
+- about
+- blog [WIP]
+- projects [WIP]
+- cv 
 
-## How to run the repo locally
+## How to run locally
 
 ### Docker (Recommended) 
 
