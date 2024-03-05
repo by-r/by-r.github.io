@@ -8,6 +8,8 @@ category: work
 related_publications: false
 ---
 
+Technologies : Python, Django, Bootstrap (CSS), MySQL
+
 Fullstack app built primarily using Django with Bootstrap.
 Might write a blog post someday on the process of building this app.
 
