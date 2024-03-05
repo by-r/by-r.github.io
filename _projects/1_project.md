@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tempah Kereta
-description: Internal tool for staff to book vehicles.
+description: Internal tool for staff to book vehicles. 
 img: assets/img/project1/1.png
 importance: 1
 category: work
