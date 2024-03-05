@@ -13,7 +13,7 @@ Technologies : PHP, MySQL, HTML/CSS
 
 A simple PHP web app for a Uni assignment (Group Project).
 
-Features:
+**Main Features:**
 - Rich main menu
 - Admin Menu
 - Basic Create/Read/Delete/Update functions to Menu items & etc
@@ -42,3 +42,12 @@ Features:
 </div>
 
 Honestly just a simple web app, could probably rebuild this using Django + Bootstrap (in the near future - if I'm not lazy).
+
+**To be added**:
+- Rebuild in Django
+
+**What I learnt**:
+
+1. Basic use of Auth: Login/Session
+2. PHP file structure : Basic file structuring
+3. CRUD : Create/Read/Update/Delete using vanilla PHP
